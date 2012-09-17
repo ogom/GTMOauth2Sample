@@ -31,7 +31,7 @@ Sample to use oauth in iOS.
     $ rm -rf ./JSON/.svn/
     $ rm -rf ./Examples/
 
-###　Add file
+### Add file
 * Add a files to the `GTMOauth2Sample` to `Library`.
 
 ### Build
