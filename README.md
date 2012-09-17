@@ -35,9 +35,13 @@ Sample to use oauth in iOS.
 * Add a files to the `GTMOauth2Sample` to `Library`.
 
 ### Build
-* ON the `Objecctive-C Automatic Refarence Counting` of the `Apple LLVM compiler 4.0 – Language` in `Build Settings`
-* Add to `SystemConfiguration.framework` and `Security.framework` of `Build Phases` to `Link Binary With Libaries`
+* ON the `Objecctive-C Automatic Refarence Counting` of the `Apple LLVM compiler 4.0 – Language` in `Build Settings`.
+* Add to `SystemConfiguration.framework` and `Security.framework` of `Build Phases` to `Link Binary With Libaries`.
 
 
 ## Uses
 * [Google Toolbox for Mac - OAuth 2 Controllers](http://code.google.com/p/gtm-oauth2/)
+
+
+## Exsample
+* [appiaries](http://www.appiaries.com/)
